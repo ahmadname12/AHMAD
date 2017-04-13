@@ -1,8 +1,8 @@
-[TH3BOSS](https://telegram.me/TH3BOSS)
+[TH3BOSS](https://telegram.me/ahmadnamed)
   
-[V13 We Are Th3Best](https://telegram.me/llDEV1ll)
+[V13 We Are Th3Best](https://telegram.me/ahmadnameddd)
   
-[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/TH3BOSS) 
+[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/ahmadnamed) 
  
 ```sh
 
@@ -24,23 +24,23 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/ahmadname12/AHMAD.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd TH3BOSS
+cd AHMAD
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
-chmod +x TH3BOSS.sh
+chmod +x AHMAD.sh
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 
-./TH3BOSS.sh install
+./AHMAD.sh install
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي  
 
-./TH3BOSS.sh 
+./AHMAD.sh 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 *ملاحظه اذا يطلعلك حرف او  
 يوكف بالتنصيب تطي امر y وانتر 
@@ -49,11 +49,11 @@ chmod +x TH3BOSS.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@ahmadnamed
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@ahmadnamed_bot
 قـنـاة الـسـورس
-@llDEV1ll
+@ahmadnameddd
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -76,7 +76,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/ahmadname12/AHMAD.git && cd TH3BOSS && chmod +x AHMAD.sh && ./AHMAD.sh install && ./AHMAD.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -101,10 +101,10 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
+Dev :   [@ahmadnamed](https://telegram.me/ahmadnamed)
+Dev_BOT :  [@ahmadnamed_bot](https://telegram.me/ahmadnamed_bot)
+Dev_Channel : [@ahmadnameddd](https://telegram.me/ahmadnameddd)
 عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
 You have an idea to develop Alsoors or bot prefer 🏿️
 
-📌 Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
+📌 Dev :   [@ahmadnamed](https://telegram.me/ahmadnamed)
